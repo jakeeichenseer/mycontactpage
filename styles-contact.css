@@ -171,10 +171,8 @@ body {
 
 
 #logo {
-	margin-bottom: 16px;
-	margin-top: 230px;
-	margin-left: 390px;
-	/* The top and left margins were added in order to center the logo. */
+	margin-bottom: 100px;
+	margin-top: 300px;
 	text-align: center;
 }
 
